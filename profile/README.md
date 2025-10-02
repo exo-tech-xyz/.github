@@ -14,6 +14,7 @@ Some of the awesome teams we build with:
 - [Inference](https://inference.supply/) (formerly Kuzco)
 
 Open Sourced Work:
+- [Solana Governance](https://github.com/exo-tech-xyz/gov-v1) Node consensus network (NCN) determining staker voting weights for the Solana network.
 - [Solana Attestation Service](https://github.com/solana-foundation/solana-attestation-service) Built ground up
 - [Jito TipRouter](https://github.com/jito-foundation/jito-tip-router) Contributions
 - [Jito Programs](https://github.com/jito-foundation/jito-programs) Contributions
