@@ -1,8 +1,9 @@
 
-## Exo Tech - Solana Research and Development Firm
+## Exo Tech - Blockchain & AI Research and Development Firm
 
-Hi, we're Exo Tech the leading Solana research and development firm. Our current focus is Solana and the SVM ecosystem as a whole.
-We've been building on Solana since 2020 and have worked on DeFi protocols, SPL Governance, Staking, MEV infrastructure, and more. We build mission critical software for teams and speed up their time to market.
+Hi! We're Exo Tech, a small team of highly skilled engineers.
+
+A large focus of ours is Solana and the SVM ecosystem as a whole. We've been building on Solana since 2020 and have worked on DeFi protocols, SPL Governance, Staking, MEV infrastructure, Vaults, and more. We build mission critical software for teams and speed up their time to market.
 
 Some of the awesome teams we build with:
 - [Jito](https://www.jito.network/)
@@ -11,10 +12,13 @@ Some of the awesome teams we build with:
 - [Nova](https://nova.gg/)
 - [Wasabi](https://www.wasabi.xyz/)
 - [Pye](https://pye.fi/)
-- [Inference](https://inference.supply/) (formerly Kuzco)
+- [Inference](https://inference.net/) (formerly Kuzco)
+
+See a more up to date [Client list](https://www.exotechnologies.xyz/clients) on our website.
 
 Open Sourced Work:
 - [Solana Governance](https://github.com/exo-tech-xyz/gov-v1) Node consensus network (NCN) determining staker voting weights for the Solana network.
+- [Solana Vault Standard](https://github.com/exo-tech-xyz/vault) Extensible Vault program implementations for atomic and async vaults.
 - [Solana Attestation Service](https://github.com/solana-foundation/solana-attestation-service) Built ground up
 - [Jito TipRouter](https://github.com/jito-foundation/jito-tip-router) Contributions
 - [Jito Programs](https://github.com/jito-foundation/jito-programs) Contributions
