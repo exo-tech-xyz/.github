@@ -18,6 +18,7 @@ See a more up to date [Client list](https://www.exotechnologies.xyz/clients) on 
 
 Open Sourced Work:
 - [Solana Governance](https://github.com/exo-tech-xyz/gov-v1) Node consensus network (NCN) determining staker voting weights for the Solana network.
+- [Solana Private Channels](https://github.com/solana-foundation/solana-private-channels) SVM side channels for operators that need privacy, selective disclosure, and more.
 - [Solana Vault Standard](https://github.com/exo-tech-xyz/vault) Extensible Vault program implementations for atomic and async vaults.
 - [Solana Attestation Service](https://github.com/solana-foundation/solana-attestation-service) Built ground up
 - [Jito TipRouter](https://github.com/jito-foundation/jito-tip-router) Contributions
